@@ -1,4 +1,4 @@
-/*
+/*oooooooooooooooooooooooooooooooooo
 11・7
 java3/参考text[課題：素数」
 ーー素数１００表示ーー
