@@ -1,3 +1,17 @@
 ﻿冷やし中華始めました。
 あｌｓｋｊだｊｄ
 ワタシノナマエハ、ザルソバデス！
+
+import java.util.*;
+
+class Array{
+	public static void main(String[] args){
+		List<String> list = new ArrayList<String>();
+		
+		list.add("abc");
+		list.add("def");
+		list.add(1, "ghi");
+		System.out.println(list.get(0));
+		System.out.println(list.get(1));
+	}
+}
